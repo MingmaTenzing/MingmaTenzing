@@ -20,8 +20,5 @@ I'm always looking to expand my skill set. Currently, I'm focused on:
 - LinkedIn: [Mingma Tenzing Sherpa]([link-to-linkedin](https://www.linkedin.com/in/mingmatenzing/))
 - Twitter: [@mingmasherpa689]([link-to-twitter](https://twitter.com/mingmasherpa689))
 
-## 📊 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MingmaTenzing&show_icons=true&theme=dark)](https://github.com/MingmaTenzing)
 
 Thank you for visiting my GitHub profile! 😊 Let's build something amazing together!
