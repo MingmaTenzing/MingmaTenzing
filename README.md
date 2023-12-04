@@ -22,6 +22,6 @@ I'm always looking to expand my skill set. Currently, I'm focused on:
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/your-username)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MingmaTenzing&show_icons=true&theme=dark)](https://github.com/MingmaTenzing)
 
 Thank you for visiting my GitHub profile! 😊 Let's build something amazing together!
