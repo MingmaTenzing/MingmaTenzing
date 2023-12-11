@@ -13,8 +13,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer with a keen in
 
 I'm always looking to expand my skill set. Currently, I'm focused on:
 
-- [Technology/Tool] - Brief description of what you're learning.
-
+- Node.js, Express Js, MongoDB, Angular, and Vue.
 ## 👥 Let's Connect
 
 - LinkedIn: [Mingma Tenzing Sherpa]([link-to-linkedin](https://www.linkedin.com/in/mingmatenzing/))
