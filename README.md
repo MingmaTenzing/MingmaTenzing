@@ -1,18 +1,15 @@
 # Hello, I'm Mingma Tenzing Sherpa👋
 
-Welcome to my GitHub profile! I'm a passionate frontend developer with a keen interest in creating delightful and responsive user interfaces. 
+Welcome to my GitHub profile! I'm a passionate fullstack developer with a keen interest in buidling interactive and solid fullstack web applications.
 
 
 ## 🔧 Technical Skills
 
-- **Languages:**  HTML5 | CSS3 ( +SCSS, BEM) | JavaScript ES6+ | TypeScript
-- **Frameworks:** React, Angular, NextJs
+- **Languages:**  HTML5 | CSS3 ( +SCSS, BEM) | JavaScript ES6+ | TypeScript | Node.js 
+- **Frameworks:** React, Angular, NextJs , Express jS
 - **Styling:** Technology: NPM | Git | Yarn | Firebase | Next Auth | FireStore | Supabase | Redux | TailwindCSS | RxJS | Three Js
 
-## 🌱 I'm Currently Learning
-
-I'm always looking to expand my skill set. Currently, I'm focused on:
-
+## 🌱 I'm Currently Learnign and Building Fullstack projects. 
 - Node.js, Express Js, MongoDB, Angular, and Vue.
 ## 👥 Let's Connect
 
