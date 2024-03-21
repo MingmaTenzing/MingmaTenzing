@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer with a keen i
 - LinkedIn: [Mingma Tenzing Sherpa]([link-to-linkedin](https://www.linkedin.com/in/mingmatenzing/))
 - Twitter: [@mingmasherpa689]([link-to-twitter](https://twitter.com/mingmasherpa689))
 - Portfolio: ([mingmatenzing.com](https://www.mingmatenzing.com/))
+- Blog: ([blog.mingmatenzing.com](https://www.blog.mingmatenzing.com/))
 
 
 Thank you for visiting my GitHub profile! 😊 Let's build something amazing together!
