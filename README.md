@@ -34,5 +34,5 @@ Thank you for visiting my GitHub profile! 😊 Let's build something amazing tog
     
   }
 .img{
-margin:4px;
+padding:4px;
 }
