@@ -4,8 +4,13 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer with a keen i
 
 
 ## 🔧 Technical Skills
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" />
-- **Languages:**  HTML5 | CSS3 ( +SCSS, BEM) | JavaScript ES6+ | TypeScript | Node.js 
+
+- **Languages:**
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-2582748_1920.png"  width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"  width="50"/>
+
+
+  HTML5 | CSS3 ( +SCSS, BEM) | JavaScript ES6+ | TypeScript | Node.js 
 - **Frameworks:** React, Angular, NextJs , Express jS
 - **Styling:** Technology: NPM | Git | Yarn | Firebase | Next Auth | FireStore | Supabase | Redux | TailwindCSS | RxJS | Three Js
 
