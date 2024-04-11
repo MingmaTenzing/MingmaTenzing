@@ -36,6 +36,8 @@ Thank you for visiting my GitHub profile! 😊 Let's build something amazing tog
 
  .container {
     display: flex;
+    widht: full;
+    justify-content: center;
     
   }
 .img{
