@@ -6,9 +6,15 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer with a keen i
 ## 🔧 Technical Skills
 
 - **Languages:**
+- <table>
+  <tr>
+    <td valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-2582748_1920.png"  width="50"/></td>
+    <td valign="top"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"  width="50"/></td>
+  </tr>
+</table>
   <div class="flex">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-2582748_1920.png"  width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"  width="50"/>
+
+
 </div>
 
 
