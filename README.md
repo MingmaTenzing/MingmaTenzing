@@ -1,7 +1,6 @@
 # Hello, I'm Mingma Tenzing Sherpa👋
 
-Welcome to my GitHub profile! I'm a passionate fullstack developer with a keen interest in buidling interactive and solid fullstack web applications.
-
+I'm a passionate fullstack developer with a keen interest in buidling interactive and solid fullstack web applications.
 
 ## 🔧 Technical Skills
 
