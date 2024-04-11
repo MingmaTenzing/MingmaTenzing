@@ -6,24 +6,11 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer with a keen i
 ## 🔧 Technical Skills
 
 - **Languages:**
-<div class="container">
-<div class="img">
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"  width="50"/>
-</div>
-<div  class="img">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-2582748_1920.png"  width="50"/>
-</div>
-  
-</div>
-
-
   HTML5 | CSS3 ( +SCSS, BEM) | JavaScript ES6+ | TypeScript | Node.js 
-- **Frameworks:** React, Angular, NextJs , Express jS
-- **Styling:** Technology: NPM | Git | Yarn | Firebase | Next Auth | FireStore | Supabase | Redux | TailwindCSS | RxJS | Three Js
+- **Frameworks:** React, Angular, NextJs , Express jS, 
+- **Styling:** Technology: NPM | Git | Yarn | Firebase | Next Auth | FireStore | Supabase | Redux | TailwindCSS | RxJS | Three Js | MongoDB 
 
-## 🌱 I'm Currently Learnign and Building Fullstack projects. 
-- Node.js, Express Js, MongoDB, Angular, and Vue.
+
 ## 👥 Let's Connect
 
 - LinkedIn: [Mingma Tenzing Sherpa]([link-to-linkedin](https://www.linkedin.com/in/mingmatenzing/))
@@ -34,12 +21,3 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer with a keen i
 
 Thank you for visiting my GitHub profile! 😊 Let's build something amazing together!
 
- .container {
-    display: flex;
-    widht: full;
-    justify-content: center;
-    
-  }
-.img{
-padding:4px;
-}
