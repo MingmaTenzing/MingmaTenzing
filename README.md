@@ -18,5 +18,5 @@ I'm a passionate fullstack developer with a keen interest in buidling interactiv
 - Blog: ([blog.mingmatenzing.com](https://www.blog.mingmatenzing.com/))
 
 
-Thank you for visiting my GitHub profile! 😊 Let's build something amazing together!
+Thank you for visiting my GitHub profile!  Let's build something amazing together!
 
